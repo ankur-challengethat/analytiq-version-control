@@ -1,0 +1,47 @@
+{
+    "release": "2026.05.17-01",
+    "versions": {
+        "dev": {
+            "addons": "1.0.0",
+            "app": "1.0.0",
+            "cleanup_init": "1.0.0",
+            "reporting_init_ebet": "1.0.0",
+            "updater": "1.0.0",
+            "ui": "1.0.0",
+            "airflow": "3.2.1",
+            "cloudflared": "2026.5.0",
+            "metabase": "v1.60.4.x",
+            "postgres": "17-alpine",
+            "redis": "8.6.3",
+            "wud": "8.2"
+        },
+        "pilot": {
+            "addons": "1.0.0",
+            "app": "1.0.0",
+            "cleanup_init": "1.0.0",
+            "reporting_init_ebet": "1.0.0",
+            "updater": "1.0.0",
+            "ui": "1.0.0",
+            "airflow": "3.2.1",
+            "cloudflared": "2026.5.0",
+            "metabase": "v1.60.4.x",
+            "postgres": "17-alpine",
+            "redis": "8.6.3",
+            "wud": "8.2"
+        },
+        "stable": {
+            "addons": "1.0.0",
+            "app": "1.0.0",
+            "cleanup_init": "1.0.0",
+            "reporting_init_ebet": "1.0.0",
+            "updater": "1.0.0",
+            "ui": "1.0.0",
+            "airflow": "3.2.1",
+            "cloudflared": "2026.5.0",
+            "metabase": "v1.60.4.x",
+            "postgres": "17-alpine",
+            "redis": "8.6.3",
+            "wud": "8.2"
+        }
+    }
+}
