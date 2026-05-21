@@ -12,7 +12,7 @@
             "ui": "1.0.0",
             "airflow": "3.2.1",
             "cloudflared": "2026.5.0",
-            "metabase": "v1.60.4.x",
+            "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
             "wud": "8.2"
@@ -28,7 +28,7 @@
             "ui": "1.0.0",
             "airflow": "3.2.1",
             "cloudflared": "2026.5.0",
-            "metabase": "v1.60.4.x",
+            "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
             "wud": "8.2"
@@ -44,7 +44,7 @@
             "ui": "1.0.0",
             "airflow": "3.2.1",
             "cloudflared": "2026.5.0",
-            "metabase": "v1.60.4.x",
+            "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
             "wud": "8.2"
