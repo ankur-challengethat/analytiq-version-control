@@ -15,6 +15,7 @@
             "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
+            "tls_init": "1.0.0",
             "wud": "8.2"
         },
         "pilot": {
@@ -31,6 +32,7 @@
             "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
+            "tls_init": "1.0.0",
             "wud": "8.2"
         },
         "stable": {
@@ -47,6 +49,7 @@
             "metabase": "v1.61.2.x",
             "postgres": "17-alpine",
             "redis": "8.6.3",
+            "tls_init": "1.0.0",
             "wud": "8.2"
         }
     }
