@@ -30,7 +30,7 @@
             "airflow": "3.2.1",
             "cloudflared": "2026.5.0",
             "metabase": "v1.61.2.x",
-            "postgres": "17-alpine",
+            "postgres": "17",
             "redis": "8.6.3",
             "tls_init": "1.0.0",
             "wud": "8.2"
@@ -47,7 +47,7 @@
             "airflow": "3.2.1",
             "cloudflared": "2026.5.0",
             "metabase": "v1.61.2.x",
-            "postgres": "17-alpine",
+            "postgres": "17",
             "redis": "8.6.3",
             "tls_init": "1.0.0",
             "wud": "8.2"
